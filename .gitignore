@@ -1,0 +1,7 @@
+.idea/
+.vscode/
+.venv/
+__py_cache__/
+*.pyc
+*DS_Stor
+__py_cache__
